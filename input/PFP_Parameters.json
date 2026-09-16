@@ -1,0 +1,48 @@
+{
+  "setup":{
+    
+    "phenStartYr":2023,
+    "phenEndYr":2025,
+    
+    "workDir":"/../Flowering/",
+    "logDir":"/../Flowering/runLogs/",
+    "geojsonDir":"/../Flowering/spatdat/geojson/",
+    "dataDir":"/../Flowering/raw",
+    "outDir":"/../Flowering/output/",
+    "rScripts":"/../Flowering/input/",
+    "rFunctions":"/../Flowering/input/PFP_Functions.R"
+
+  },
+  
+  "phenology_parameters":{
+  
+    "Finc_Fdiff_pc": 0.5,
+    "Finc_pitWmax": 3,
+
+    "gup_threshes":[0.2, 0.5, 0.9],
+
+    "dormantQuantile":0.05,  
+    
+    "hazeThresh":0,   
+    
+    "VspikeThresh":2,            
+    "FspikeThresh":4,   
+    "maxDistance": 15,
+    "spike_n_repeat": 1,
+    
+    "z_thresh": 3,
+    "n_repeat": 1,
+
+    "AsplineBuffer":30,               
+    "AsplineSpar":0.7,   
+    "WsplineSpar":0.5,
+    "half_detectWsize": 20, 
+    "half_fitWsize": 60, 
+
+    "VImaxThresh": 0.3,
+    "VIampThresh": 0.2,
+    "FIampThresh":0
+
+  }
+  
+}
