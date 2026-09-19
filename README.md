@@ -40,7 +40,7 @@ Flowering/
 
 Used to characterize annual canopy development and derive green-up phenophases.
 
-**Enhanced Bloom Index (EBI)** (Chen et al., 2019)
+**EBI** (Chen et al., 2019)
 
 Used to characterize flowering-related spectral signals and identify flowering peaks within phenology-based detection windows.
 
