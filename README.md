@@ -83,8 +83,6 @@ File paths and processing parameters should be updated in `PFP_Parameters.json` 
 
 ## Citation
 
-Kim, S., Kim, K. R., Han, Y. J., Kim, H. S., & Moon, M. (2026).
-Detecting tree flowering across contrasting canopy development stages using PlanetScope imagery.
-Preprint. https://ssrn.com/abstract=7484765
+Kim, Sukyung and Kim, Kyu Rang and Han, Young Jong and Kim, Hyun Seok and Moon, Minkyu, Detecting tree flowering across contrasting canopy development stages using PlanetScope imagery. Available at SSRN: https://ssrn.com/abstract=7484765 or http://dx.doi.org/10.2139/ssrn.7484765
 
 
